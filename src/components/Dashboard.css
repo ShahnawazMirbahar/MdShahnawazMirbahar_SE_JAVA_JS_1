@@ -1,0 +1,8 @@
+.dashboard-container {
+  background-size: cover;
+  border: 2px solid black;
+  height: 90vh;
+  width: auto;
+  text-align: center;
+  color: rgb(29, 28, 28);
+}

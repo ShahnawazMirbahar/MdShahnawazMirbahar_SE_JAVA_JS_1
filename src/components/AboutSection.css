@@ -1,0 +1,9 @@
+.about-container {
+  background-image: url('./images/image_2.png');
+  background-size: cover;
+  border: 2px solid black;
+  height: 90vh;
+  width: auto;
+  text-align: center;
+  color: white;
+}

@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Graphics Card",
+      "model": "1050 ti",
+      "price": "10000",
+      "profit": "5%",
+      "id": 1
+    },
+    {
+      "name": "RAM",
+      "model": "Adata",
+      "price": "500",
+      "profit": "1%",
+      "id": 2
+    }
+  ]
+}
