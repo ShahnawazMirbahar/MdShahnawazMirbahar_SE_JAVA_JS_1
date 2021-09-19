@@ -1,2 +1,5 @@
 This project is done with React.js
-**# Installation**
+# Installation
+ **npm install**
+ # Run The project
+  **npm run dev**
